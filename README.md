@@ -3,10 +3,12 @@
 
 
 首先需要搭建aosp环境,雷电模拟器以Android5.1为例
+
 编译aosp可以参考这个视频:
 https://www.bilibili.com/video/BV1gU4y1j7JY?from=search&seid=5741363526410662528&spm_id_from=333.337.0.0
 
 编译系统后,在external目录将test拷贝过来
+
 在android目录下执行
 ```
 source build/envsetup.sh
